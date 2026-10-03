@@ -1,0 +1,30 @@
+services:
+  - type: web
+    name: quantcoach
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run app.py --server.port $PORT --server.address 0.0.0.0
+    autoDeploy: true
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false
+      - key: BACKBOARD_API_KEY
+        sync: false
+      - key: ELEVENLABS_API_KEY
+        sync: false
+      - key: MONGODB_URI
+        sync: false
+      - key: BRAIN_USERNAME
+        sync: false
+      - key: BRAIN_PASSWORD
+        sync: false
+      - key: BRAIN_API_KEY
+        sync: false
+      - key: SERPAPI_API_KEY
+        sync: false
+      - key: BACKBOARD_ASSISTANT_ID
+        sync: false
+      - key: GROQ_MODEL_NAME
+        value: openai/gpt-oss-120b
+      - key: MOCK_MODE
+        value: "false"

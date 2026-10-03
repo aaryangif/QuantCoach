@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs>
+    <linearGradient id="crimsonGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B1E22" />
+      <stop offset="60%" stop-color="#B91C1C" />
+      <stop offset="100%" stop-color="#DC2626" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="#FAF7F2"/>
+  <rect x="55" y="45" width="230" height="585" rx="18" fill="#F3ECE2" stroke="#E5DACF"/>
+  <rect x="80" y="76" width="40" height="40" rx="10" fill="#FEF2F2" stroke="#B91C1C"/>
+  <path d="M90 102 L98 94 L104 100 L112 88" stroke="#991B1B" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <text x="135" y="98" fill="#1C1917" font-family="Plus Jakarta Sans,system-ui,sans-serif" font-size="22" font-weight="800">QuantCoach</text>
+  <text x="135" y="112" fill="#991B1B" font-family="Plus Jakarta Sans,system-ui,sans-serif" font-size="11" font-weight="700" letter-spacing="1.5">BRAIN COPILOT</text>
+  
+  <rect x="340" y="80" width="790" height="495" rx="20" fill="#FFFFFF" stroke="#E8DFD5" filter="drop-shadow(0 4px 20px rgba(60,45,35,0.06))"/>
+  <rect x="395" y="125" width="260" height="28" rx="14" fill="#FEF2F2" stroke="#FCA5A5"/>
+  <text x="415" y="144" fill="#8B1E22" font-family="Plus Jakarta Sans,system-ui,sans-serif" font-size="12" font-weight="700" letter-spacing="1">RESEARCH • DSA • ALPHA DISCOVERY</text>
+  <text x="395" y="210" fill="#1C1917" font-family="Plus Jakarta Sans,system-ui,sans-serif" font-size="38" font-weight="800">Your Research Copilot</text>
+  <text x="395" y="240" fill="#78716C" font-family="Plus Jakarta Sans,system-ui,sans-serif" font-size="16">Ask quantitative finance, algorithms, probability, or linear algebra questions.</text>
+  <rect x="395" y="270" width="680" height="135" rx="12" fill="#FAF7F2" stroke="#D6CBC0"/>
+  <text x="425" y="325" fill="#8C827A" font-family="Plus Jakarta Sans,system-ui,sans-serif" font-size="18">Why does cross-sectional z-scoring help before combining factors?</text>
+  <rect x="395" y="435" width="240" height="52" rx="10" fill="url(#crimsonGrad)"/>
+  <text x="435" y="468" fill="#FFFFFF" font-family="Plus Jakarta Sans,system-ui,sans-serif" font-size="16" font-weight="700">Ask QuantCoach</text>
+  <text x="55" y="660" fill="#8C827A" font-family="Plus Jakarta Sans,system-ui,sans-serif" font-size="14">QuantCoach — Warm Beige &amp; Deep Crimson Quant Editorial Theme</text>
+</svg>

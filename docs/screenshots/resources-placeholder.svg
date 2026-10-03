@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs>
+    <linearGradient id="crimsonGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B1E22" />
+      <stop offset="100%" stop-color="#DC2626" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="#FAF7F2"/>
+  <rect x="70" y="55" width="40" height="40" rx="10" fill="#FEF2F2" stroke="#B91C1C"/>
+  <path d="M80 80 L88 72 L94 78 L102 66" stroke="#991B1B" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <text x="125" y="82" fill="#1C1917" font-family="Plus Jakarta Sans,system-ui,sans-serif" font-size="36" font-weight="800">Curated Quantitative Library</text>
+  <text x="70" y="125" fill="#78716C" font-family="Plus Jakarta Sans,system-ui,sans-serif" font-size="17">Hand-selected foundations for quant research, data structures, and disciplined factor modeling.</text>
+  
+  <g fill="#FFFFFF" stroke="#E8DFD5">
+    <rect x="70" y="160" width="510" height="250" rx="16"/>
+    <rect x="620" y="160" width="510" height="250" rx="16"/>
+    <rect x="70" y="440" width="1060" height="130" rx="16"/>
+  </g>
+  
+  <circle cx="325" cy="285" r="32" fill="url(#crimsonGrad2)"/>
+  <polygon points="320,273 336,285 320,297" fill="#FFFFFF"/>
+  <text x="100" y="385" fill="#1C1917" font-family="Plus Jakarta Sans,system-ui,sans-serif" font-size="18" font-weight="700">Market Research Primer</text>
+  
+  <circle cx="875" cy="285" r="32" fill="url(#crimsonGrad2)"/>
+  <polygon points="870,273 886,285 870,297" fill="#FFFFFF"/>
+  <text x="650" y="385" fill="#1C1917" font-family="Plus Jakarta Sans,system-ui,sans-serif" font-size="18" font-weight="700">Quant Learning Session</text>
+  
+  <text x="100" y="490" fill="#1C1917" font-family="Plus Jakarta Sans,system-ui,sans-serif" font-size="18" font-weight="700">Custom Lecture Ingestion</text>
+  <rect x="100" y="505" width="1000" height="42" rx="8" fill="#FAF7F2" stroke="#D6CBC0"/>
+  <text x="120" y="532" fill="#8C827A" font-family="Plus Jakarta Sans,system-ui,sans-serif" font-size="14">https://www.youtube.com/watch?v=...</text>
+  <text x="70" y="640" fill="#8C827A" font-family="Plus Jakarta Sans,system-ui,sans-serif" font-size="14">QuantCoach — Curated Library in Warm Beige &amp; Crimson Theme</text>
+</svg>

@@ -1,0 +1,4 @@
+streamlit>=1.65,<2
+requests>=2.31,<3
+pymongo[srv]>=4.6,<5
+python-dotenv>=1.0,<2
